@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3638298
+  lightness: 0.6404255
+  brandStrength: 0.7382979
+  brandColors:
+    - '#887C6E'
+    - '#7C6657'
+    - '#AF9D91'
+    - '#313A49'
+    - '#555C64'
+  rhythmicContrast: 0.6723405
+typography_spectrum: 0.6595744
+name: Silver Leaf Baking
